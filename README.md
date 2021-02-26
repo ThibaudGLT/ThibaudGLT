@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Cover](https://github.com/ThibaudGLT/ThibaudGLT/blob/main/img/covergit.jpg)
+![Cover](https://github.com/ThibaudGLT/ThibaudGLT/blob/main/img/covergit.png)
 
 ### Hello 👋
 
