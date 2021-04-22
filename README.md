@@ -1,14 +1,21 @@
-### Hello 👋
-
-### ⚡️ **Thibaud Guillot** ⚡️
-#### 🔧 Web Developer  - Based in beautiful city of *L'isle sur la sorgue* 😍 _(but still a Jura Product 🌲)_
+<h1 align="center">Welcome on my profile, I'm Thibaud 👋</h1>
+<h3 align="center">A fullstack developer from south of France 🌞</h3>
 ------------
-![Cover](https://github.com/ThibaudGLT/ThibaudGLT/blob/main/img/juracover.jpg)
 
-**Things I love** : Italian Pizza 🍕  
-**Things I hate** : Pineapple in Italian Pizza 🍍  
+![Cover](https://github.com/ThibaudGLT/ThibaudGLT/blob/main/img/cover.jpg)
 
-If you want to debate about the presence of pineapples in Italian pizzas or for anything else you can contact me at [@t_bow84](https://twitter.com/t_bow84 "@t_bow84") 😉
+- 🤓 Currently working on different side projects and continue to learning
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThibaudGLT&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+- 👉 Let's talk about your projects, I'm curious and like to share
 
+- 🎯 Avaible for a full-time work or eventually an internship : let's discuss 
+
+- 🤙 Contact me at [guillotthibaud@gmail.com](mailto:guillotthibaud@gmail.com)
+
+- 💻 Don't hesitate to have a look at my portfolio online : [thibaudguillot.dev](<http://www.thibaudguillot.dev>) 👀
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ThibaudGLT&show_icons=true&theme=gotham" alt="ThibaudGLT"/></p>
+<p align="center">
+<a href="https://twitter.com/t_bow84" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tbow" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/thibaud-g" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="florian-argaud-67a1bb19a" height="30" width="30" /></a>
+</p>
