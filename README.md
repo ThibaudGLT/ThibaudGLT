@@ -9,3 +9,6 @@
 **Things I hate** : Pineapple in Italian Pizza 🍍  
 
 If you want to debate about the presence of pineapples in Italian pizzas or for anything else you can contact me at [@t_bow84](https://twitter.com/t_bow84 "@t_bow84") 😉
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThibaudGLT)](https://github.com/anuraghazra/github-readme-stats)
+
