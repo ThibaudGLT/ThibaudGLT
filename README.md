@@ -1,17 +1,11 @@
 <h1 align="center">Welcome on my profile, I'm Thibaud 👋</h1>
-<h3 align="center">A fullstack developer from south of France 🌞</h3>
+<h3 align="center">A developer from south of France 🌞</h3>
 
 ![Cover](https://github.com/ThibaudGLT/ThibaudGLT/blob/main/img/cover.jpg)
 
 - 🤓 Currently working on different side projects and continue to learning
 
-- 👉 Let's talk about your projects, I'm curious and like to share
-
-- 🎯 Avaible for a full-time work or eventually an internship : let's discuss 
-
-- 🤙 Contact me at [guillotthibaud@gmail.com](mailto:guillotthibaud@gmail.com)
-
-- 💻 Don't hesitate to have a look at my portfolio online : [thibaudguillot.dev](<http://www.thibaudguillot.dev>) 👀
+- 💻 Actually work at bibLibre
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ThibaudGLT&show_icons=true&theme=gotham" alt="ThibaudGLT"/></p>
 <p align="center">
